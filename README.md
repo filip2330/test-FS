@@ -6,3 +6,5 @@ sql naredba:
 
 SELECT * FROM stavke WHERE racun = 1;
 
+Filip Stefanac
+
